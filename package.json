@@ -4,7 +4,10 @@
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
+    "react-card-flip": "^0.8.1",
     "react-dom": "^16.8.6",
+    "react-draggable": "^3.3.0",
+    "react-flippy": "^0.1.5",
     "react-scripts": "3.0.1"
   },
   "scripts": {
