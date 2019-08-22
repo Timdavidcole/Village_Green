@@ -3,12 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "google-maps-react": "^2.0.2",
     "react": "^16.8.6",
     "react-card-flip": "^0.8.1",
     "react-dom": "^16.8.6",
     "react-draggable": "^3.3.0",
     "react-flippy": "^0.1.5",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "typescript": "^3.5.3"
   },
   "scripts": {
     "start": "react-scripts start",
