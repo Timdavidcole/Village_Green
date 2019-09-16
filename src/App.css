@@ -4,6 +4,10 @@
   height:fill;
 }
 
+a {
+  margin: 5px;
+}
+
 .tableNotice {
   position: absolute;
 }
@@ -18,6 +22,7 @@
 
 .card:hover .card-inner, .card-inner {
 	transform: rotateY(180deg);
+  z-index:555555;
 }
 
 .card:hover {
